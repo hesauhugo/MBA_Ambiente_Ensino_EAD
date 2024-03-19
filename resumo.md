@@ -390,6 +390,6 @@ dúvidas e dificuldades, troque informações.
 
 ## Materiais Complementares
 
-RIGO, R. M. Mediação pedagógica em ambientes virtuais de aprendizagem. In: REUNIÃO CIENTÍFICA REGIONAL SUL DA ASSOCIAÇÃO NACIONAL DE PESQUISA E PÓS-GRADUAÇÃO EM EDUCAÇÃO, 10., 2014, Florianópolis. Anais [...]. Florianópolis: UDESC, 2014. p. 1-16.
+RIGO, R. M. Mediação pedagógica em ambientes virtuais de aprendizagem. In: REUNIÃO CIENTÍFICA REGIONAL SUL DA ASSOCIAÇÃO NACIONAL DE PESQUISA E PÓS-GRADUAÇÃO EM EDUCAÇÃO, 10., 2014, Florianópolis. Anais [...]. Florianópolis: UDESC, 2014. p. 1-16. Disponível em [https://repositorio.pucrs.br/dspace/bitstream/10923/7083/1/000466402-Texto%2bCompleto-0.pdf]
 
 notion para iniciantes: [https://www.youtube.com/watch?v=rYBxZPRs6wc]
