@@ -393,3 +393,132 @@ dúvidas e dificuldades, troque informações.
 RIGO, R. M. Mediação pedagógica em ambientes virtuais de aprendizagem. In: REUNIÃO CIENTÍFICA REGIONAL SUL DA ASSOCIAÇÃO NACIONAL DE PESQUISA E PÓS-GRADUAÇÃO EM EDUCAÇÃO, 10., 2014, Florianópolis. Anais [...]. Florianópolis: UDESC, 2014. p. 1-16. Disponível em [https://repositorio.pucrs.br/dspace/bitstream/10923/7083/1/000466402-Texto%2bCompleto-0.pdf]
 
 notion para iniciantes: [https://www.youtube.com/watch?v=rYBxZPRs6wc]
+
+# Aula 2
+## CONCEITO DE MODELO
+A atividade científica procura compreender, explicar e predizer fenômenos do mundo. Por esse motivo, a ciência busca generalizar e simplificar a realidade por meio de leis, princípios e modelos. Nesse sentido, o conceito de modelo tem o direcionamento de estabelecer uma relação por analogia com a realidade.
+
+O conceito de modelo é um dos conceitos mais importantes que fundamentam
+a atividade científica. Um modelo é uma representação compartilhada de um
+conjunto de relações que definem um fenômeno com objetivo de melhor
+compreendê-lo. Em outras palavras, um modelo é um sistema figurativo que
+reproduz a realidade de maneira mais abstrata, quase esquemática e que
+serve de referência.
+
+Um modelo de ensino é o modo ou forma de ensino que exerce e sofre
+influência de vários fatores e mecanismos que fazem parte do processo de
+aprendizagem e da estrutura e organização de um curso. Esses fatores
+implicam o planejamento, os métodos e as técnicas de ensino, as formas e
+técnicas de avaliação, as formas de interação e, consequentemente, a
+construção do conhecimento durante o processo de ensino-aprendizagem.
+
+No ensino a distância, os modelos devem ser vistos como possibilidades em
+uma prática que valoriza a atividade e a ação reflexiva em todas as etapas
+do processo de ensino-aprendizagem, e não como os únicos caminhos a
+serem seguidos.
+
+**Texto adaptado de:**
+
+BEHAR, P. A.; PASSERINO, L.; BERNARDI, M. Modelos pedagógicos para
+educação a distância: pressupostos teóricos para a construção de objetos de
+aprendizagem. Novas Tecnologias na Educação, v. 5, n. 2, 2007.
+
+CARVALHO JÚNIOR, A. F. P. Educação a distância: uma análise dos modelos
+de ensino. EaD em Foco, v. 3, n. 1, p. 46-54, 2013. 
+
+## Modelos de EAD
+
+* O termo ensido a distância refere-se a vários modelos de ensino que tem em comum a separação física entre o professor e o aluno
+
+* Todos os modelos de ead dão construídos em torno dos seguintes componentes:
+    * Apresentação de conteúdo
+    * interação com o professor, com os colegas e com recursos educacionais
+    * aplicação prática
+    * avaliação
+* cada modelo de ead utiliza a tecnolocai de maneiras diferentes para tratar cada um dos componentes citados anteriormente
+* os modelos de ead também são diferentes com relação ao controle
+    * professor
+    * estudante
+* Modelos:
+    * modelo1  - sala de aula distribuída
+    * modelo2 - estudo independente
+    * modelo3 - estudo independente com aulas
+### Sala de aula distribuída
+* tecnologia de comunicação permite agregar uma ou mais salas remotas á sala de aula convencional (modelo híbrido)
+* característica principal
+    * professor e alunos devem estar em um determinado local ao mesmo tempo (comunicação síncrona)
+* características:
+    * professor e alunos devem estar em um determinado local ao mesmo tempo( comunicação sincrona)
+    * alunos podem escolher uma sala proxima a sua residencia ou trabalho ( ou participar da sua própria residencia)
+    * pode haver um número variável de alunos por sala
+    * a experiencia (professor e alunos) é semelhante que a a da sala de aula tradicional
+    * o problema é estimular a participacao ativa
+    * o papel do professor não se altera muito em relação à aula tradicional, mas o uso de tecnologia requer alguma adaptação na maneira de fazer uma apresentação
+    * os alunos presenciais se mostram menos tolerantes a problemas técnicos
+    * dificuldade de interação entre alunos presenciais e alunos remotos.
+    * o aluno remoto tende a se sentir isolado e excluído da turma presencial, a não ser que o professor faça um esforço planejado de inclusão
+    * tecnologias para a poisar o modelo: videoconferencia, gerenciadores de conteúdo, aplicativos de mensagens instantaneas, mensagens eletronicas, recursos web e materiais on-line
+    * necessário o apoio de tutores.
+
+### Estudo independente
+* o aluno recebe o material do curso e tem acesso a um professor que orienta o estudo, reponde a perguntas e realiza a avaliação
+* o aluno não tem a obrigatoriedade de estar em um determinado local o mesmo tempo
+* característica principal
+    * alunos estudam de forma independente, não existem aulas formais
+* características
+    * alunos estudam de forma independente, seguindo as orientações contidas no material do curso
+    * os alunos são avaliados pelo conhecimento e competencias que foram apropriados
+    * os alunos devem ter alta capacidade de se organizar e devem ser acompanhados individualmente por tutores
+    * o material do curso pode ser fornecido no formato impresso, paginas web documentos para sownload e vídeos, que podem ser utilizados em qualquer momento e em qualquer lugar
+    * o material utilizado ao longo de varios anos e geralmente é resultado de um desenvolvimento que envolve especialistas
+    * necessário ter uma boa infraestrutura (recursos materiais e humanos)
+    * os alunos precisam de tutores capacitados
+    * alunos podem interagir com o professor e, eventualmente, com outros alunos por meio de tecnologia
+    * o professor estrutura e facilita a experiência de aprendizagem, mas divide o controle do andamento do curso com o aluno
+    * o aluno pde organizar a sua agenda, mas deve ter responsabilidade, comprometimento e motivação para seguir as atividades do curso.
+
+### Estudo independente com aulas
+* combinação do uso do material do curso e do uso ocasional de tecnologia de comunicação
+* característica principal
+    * alunos estudam no seu próprio ritmo e ocasionalmente se encontram em uma aula (física ou virtual) para apresentar o conhecimento apropriado e interagir com o professor e os demais alunos
+* características
+    * os alunos ocasionamente se reúnem em uma aula, geralmente por videoconferência
+    * as reuniões servem para discutir e esclarecer conceitos, resolver problemas ou desenvolver projetos
+    * o professor estrutura e facilita a experiência da aprendizagem, mas cede algum controle do curso para o aluno
+    * o aluno tem mais flexibilidade na sua agenda devido ao número menor de aulas
+    * as aulas periódicas auxiliam o aluno a estruturar o seu estudo, mas ainda é necessário ter disciplina e maturidade
+    * tecnologias para apoiar o modelo são semelhantes às do modelo sala de aula distribuída
+
+### considerações finais
+
+* apresentar as alteranativas existentes pra o ensino a distãncia, vantagens e problemas
+* qual o modelo de ensino a distãncia que deve ser utilizado.
+
+## Atividade 2 
+
+* Escolha um curso de ensino a distância de uma instituição de ensino e apresente uma análise com relação ao:
+
+* Modelo de ensino a distância adotado (pelo curso);
+
+* Uso da tecnologia para a interação (entre os participantes);
+
+* Controle do curso (pelo estudante).
+
+* A análise deve incluir uma breve descrição prévia do curso escolhido (por exemplo, nome do curso, objetivo do curso e instituição de ensino responsável pelo curso).
+
+* **Resposta**
+    * Instutuição de ensino: MBA USP ESALQ
+    * Curso: MBA em Data science e Analytics
+    * Objetivos do curso:
+        * O objetivo do nosso MBA é capacitar o profissional no desenvolvimento de técnicas de ciência e análise de dados, balanceando fundamentos, programação e tomada de decisão, por meio da explicitação das principais técnicas de Data Science, Machine Learning e Analytics, com foco na geração de informação voltada ao estabelecimento de estratégias para tomada de decisão, adaptação, no conhecimento de tecnologias emergentes e na alocação de recursos.
+    * Modelo de ensino a distância adotado: 
+        * Sala de aula distribuída.
+        * Os professores ministram aulas semanais sincronas.
+        * após a aula existe uma prova que fica aberta por até três meses, para o aluno a gravação e materiais ficam disponíveis até o fim do curso.
+        * As aulas são sincronas no formato remoto apenas.
+        * Existem tutores para tirar dúvidas.
+    * Uso da tecnologia para interação:
+        * Através de um sistema chamado move: O Sistema Acadêmico Move foi desenvolvido para garantir a melhor experiência no seu aprendizado. É nele que o aluno realiza seus estudos e provas, tira quaisquer dúvidas e interage, dentro e fora das aulas, com outros alunos e professores.
+    * Controle do curso (pelo estudante)
+        * o estudante segue a agenda estipulada no cronograma e as regras do programa.
+        
