@@ -522,3 +522,114 @@ de ensino. EaD em Foco, v. 3, n. 1, p. 46-54, 2013.
     * Controle do curso (pelo estudante)
         * o estudante segue a agenda estipulada no cronograma e as regras do programa.
         
+# Aula 3
+
+* Orientações
+* educação a distância
+* dois textos
+    * evolução da educação a distância
+    * conceitos e componentes de educação a distância
+
+## EVOLUÇÃO DA EDUCAÇÃO A DISTÂNCIA
+
+A Educação a Distância (EAD) não é novidade, mas é considerada um dos avanços mais revolucionários da história da Educação. A sua origem pode estar nas cartas de Platão e nas epístolas de São Paulo. Existem registros e experiências de educação por correspondência iniciados no final do século XV, XVIII, e com largo desenvolvimento em meados do século XIX. 
+
+Na 2ª Guerra Mundial, os Estados Unidos utilizavam essa modalidade para treinar os soldados. No Brasil, o Instituto Monitor e o Instituto Universal Brasileiro foram instituições que inovaram a oferta de cursos de ensino profissionalizante, atuando no cenário brasileiro desde o final do século XX. 
+
+Durante mais de 200 anos, a expressão “Educação a Distância” foi empregada para designar formas variadas de ensino e aprendizagem, nas quais os estudantes não estivessem em contato direto com os seus instrutores: cursos por correspondência, cursos pelo rádio ou televisão e cursos baseados em fitas magnéticas ou fitas de vídeo.
+
+Recentemente, a internet provocou uma grande revolução na Educação a Distância, uma vez que possibilita perspectivas inéditas para essa modalidade de ensino, contribui para romper as barreiras do tempo e da distância e permite mais flexibilidade para disponibilizar e democratizar o conhecimento. 
+
+Desde a sua origem até os dias atuais, a evolução da Educação a Distância pode ser dividida em quatro gerações, de acordo com as diferentes tecnologias utilizadas para produção, distribuição e comunicação: 
+
+* 1ª Geração – até 1970 – Ensino por correspondência. Essa geração tem como característica a produção de material impresso e distribuição por correspondência utilizando o serviço postal. A comunicação é assíncrona e centrada na troca de documentos escritos entre professor e estudante, normalmente a partir da iniciativa do professor e a interação entre estudantes é inexistente. 
+
+* 2ª Geração – de 1970 a 1985 – Ensino por teleducação. Essa geração tem como característica a transmissão por rádio, televisão, fitas de áudio e/ou vídeo, além da manutenção do material impresso. A troca de documentos por correspondência é mantida, mas a utilização do telefone permite a comunicação síncrona entre professor e estudante. No entanto, a interação entre estudantes continua inexistente.
+
+* 3ª Geração – de 1985 a 1995 – Ensino por multimídia. Caracterizada pela utilização de multimídia interativa e pela distribuição realizada por meio de mídia magnética utilizando o serviço postal. O uso de programas de aprendizado assistido por computador permite ao estudante obter algum feedback com relação à atividade de aprendizagem. A comunicação com o professor pode ocorrer de forma síncrona utilizando o telefone, ou assíncrona utilizando o correio eletrônico. A interação entre estudantes pode ser realizada individualmente, por meio de correio eletrônico, ou em grupos, por meio de fórum de discussão. No entanto, a interação entre estudantes não é um elemento essencial para o desenvolvimento de atividades de ensino e aprendizagem.
+
+* 4ª Geração – a partir de 1995 – Ensino e aprendizagem em rede. Essa geração é caracterizada pela utilização crescente de tecnologias digitais para a produção e distribuição de conteúdo. Além disso, os ambientes e ferramentas web permitem um modelo de construção coletiva e colaborativa de conhecimento. A comunicação é direta e frequente entre todos os intervenientes, professores e estudantes, e realizada por meio de diversos serviços em rede (internet), como mensagens instantâneas e videoconferência. A interação entre estudantes é efetiva e significativa. Nesse sentido, surgem novas perspectivas em termos de desenvolvimento de situações de aprendizagem em grupo, entre pares e de natureza colaborativa, permitindo a formação de comunidades de aprendizagem.
+
+* Além dessas gerações, seria possível identificar uma 5ª Geração, derivada diretamente da anterior, mas com a utilização de ambientes ou plataformas avançadas com potencial para oferecer experiências de aprendizagem personalizadas. De qualquer modo, é fundamental compreender que as gerações sinalizam a utilização de diferentes tecnologias para produção, distribuição e comunicação no âmbito da Educação a Distância, mas não significa que uma geração tenha sido totalmente suplantada pela seguinte e que não mais exista.
+
+### Texto adaptado de:
+GOMES, M. J. Gerações de inovação tecnológica no ensino a distância. Revista Portuguesa de Educação, v. 16, n. 1, p. 137-156, 2003.
+
+MOORE, M. G.; KEARSLEY, G. Distance education: a systems view of online learning. 3. ed. Wadsworth: Cengage Learning, 2011. 
+
+## CONCEITOS DE EDUCAÇÃO A DISTÂNCIA:
+
+A Educação a Distância (EAD) é um tema que recebe cada vez mais atenção, muito em razão de seu crescimento e de suas potencialidades. Nesse sentido, pode-se encontrar muitas definições diferentes para esse termo. Pimentel (2006) destaca diversas definições encontradas na literatura e afirma que são muitas as variáveis que contribuíram para diversificar o que se entende por Educação a Distância.
+
+Partindo da análise de outras definições, Keegan (1980) indica seis características que considera essenciais em qualquer definição de Educação a Distância que pretenda ser abrangente:
+1. A separação entre o professor e estudante, que a distingue da
+educação presencial;
+2. A influência de uma organização educacional, que a distingue do estudo individual;
+3. O uso de mídia técnica, geralmente impressa, para unir professor e estudante e entregar conteúdo educacional;
+4. A provisão de comunicação bidirecional, para que o estudante possa se beneficiar ou mesmo iniciar o diálogo;
+5. A possibilidade de encontro ocasional para fins didáticos e de
+socialização;
+6. A participação em uma forma industrializada de educação que, se aceita, contém o cerne da separação radical da educação a distância de outras formas de educação.
+
+Essa proposta tem sido extensivamente referenciada na literatura e recebido diversas análises e críticas. A inclusão de referência à característica industrial da Educação a Distância talvez tenha sido a principal questão, pois reduz a abrangência do conceito ao excluir outras possibilidades. Na reformulação de sua caracterização, Keegan (1996) elimina a referência à Educação a Distância com uma forma industrializada de educação.
+
+Moore e Kearsley (1996, 2010) definem Educação a Distância como o
+aprendizado planejado que ocorre normalmente em um lugar diferente do local de ensino e que exige técnicas especiais de criação do curso e de instrução, comunicação por meio de várias tecnologias e disposições organizacionais e administrativas especiais. Segundo Moore e Kearsley (1996), as cinco características a seguir são essenciais para definir a Educação a Distância: 
+1. A separação física e geográfica entre estudante e professor;
+2. O planejamento e preparação de materiais de aprendizado por uma organização educacional;
+3. No processo de ensino e aprendizagem, o apoio que viabiliza e
+incentiva a autonomia dos estudantes é importante para encorajar a interação e contribuir para a aprendizagem;
+4. O aprendizado planejado;
+5. A comunicação por meio de tecnologias e mídias diversas.
+
+Para Moran (2002), a Educação a Distância é o processo de ensino e aprendizagem mediado por tecnologias, no qual os professores e estudantes estão separados de maneira espacial e/ou temporal. O ensino e a aprendizagem ocorrem quando professores e estudantes não estão juntos fisicamente, mas podem estar conectados e interligados por tecnologias, principalmente os serviços de comunicação e informática, como a internet. Na expressão “ensino a distância”, a ênfase é dada ao papel do professor, como alguém que ensina a distância. Segundo Moran (2002), existe a preferência pela palavra “educação” (no termo Educação a Distância) porque é mais abrangente, embora nenhuma das expressões seja perfeitamente adequada.
+
+Na legislação brasileira também é possível encontrar referências para a Educação a Distância, em especial a partir da aprovação da Lei de Diretrizes e Bases da Educação Nacional (LDB), em 1996. A Educação a Distância é considerada como a modalidade educacional na qual a mediação didático-pedagógica no processo de ensino e aprendizagem ocorra com a utilização de meios e tecnologias de informação e comunicação, com pessoal qualificado,
+com políticas de acesso, com acompanhamento e avaliação compatíveis, entre outros, e desenvolva atividades educativas por estudantes e profissionais da educação que estejam em lugares e tempos diversos (BRASIL, 2017).
+
+Apesar da possibilidade de existir muitas outras definições além das apresentadas neste texto, todas têm algo em comum com relação aos seguintes aspectos (GOMES, 2009): a distância física entre professor e estudante; a forma de estudo; e a utilização de tecnologias para promover a interação. Em última análise, essa diversidade de definições, conceitos e entendimentos com relação à Educação a Distância é uma indicação de que o assunto está em permanente evolução.
+
+## COMPONENTES DA EDUCAÇÃO A DISTÂNCIA 
+
+Um sistema de educação a distância pode ser comparado a uma “instituição de ensino virtual”, pois apresenta muitos componentes equivalentes aos de uma instituição de ensino convencional. Apesar de não possuir necessariamente salas de aulas físicas, um sistema de educação a distância não dispensa a maioria dos recursos humanos tradicionais. 
+
+O termo “sala de aula virtual” é muito utilizado para fazer referência a um ambiente digital ao qual os estudantes podem ter acesso por meio da internet a conteúdo e tecnologias de comunicação para promover a aprendizagem, colaboração e interação. Nesse contexto, esse tipo de ambiente também é conhecido como Ambiente Virtual de Aprendizagem (AVA).
+
+Com base em Santos e Rodrigues (1999) e Gomes (2009), os principais componentes de um sistema de educação a distância podem ser os seguintes:
+* Estudante;
+* Professor;
+* Tutor ou monitor;
+* Facilitador;
+* Suporte técnico e administrativo;
+* Administrador ou coordenador;
+* Sistema de gerenciamento de aprendizagem.
+
+O estudante é o elemento principal no processo de ensino e aprendizagem. O objetivo do estudante é ter acesso a conhecimento que possa ser útil para a sua vida pessoal e/ou profissional. Para isso, o estudante procura desenvolver e exercitar a sua autonomia, e passa a gerenciar mais intensamente a sua aprendizagem, tornando-se participante ativo na busca pelo conhecimento.
+
+O professor é fundamental para o sucesso da educação a distância. As suas principais responsabilidades são: selecionar o conteúdo do curso; definir as estratégias de ensino e mediação pedagógica; e realizar a avaliação da aprendizagem. Adicionalmente, o professor procura atender às características e necessidades especiais dos estudantes. Além disso, também precisa adaptar seus estilos de ensino, considerando as expectativas de múltiplas, e frequentemente distintas, audiências.
+
+O tutor, também chamado de monitor ou professor-tutor, é um elemento dinâmico e essencial no processo de ensino e aprendizagem, que desempenha a sua função próximo do professor e da gestão acadêmica. As suas principais responsabilidades são: responder dúvidas dos alunos; corrigir exercícios; e interagir com os estudantes quando necessário, provendo retorno rápido. Para isso, o tutor deve obrigatoriamente ter conhecimento sobre o conteúdo do curso. No entanto, definir e criar conteúdo, assim como responder dúvidas complexas e corrigir provas subjetivas, são responsabilidades exclusivas do professor.
+
+O facilitador nem sempre está presente em todos os sistemas de educação a distância. Para exercer essa função não é obrigatoriamente necessário conhecer o conteúdo do curso. As suas principais responsabilidades são: auxiliar o professor; operar equipamentos locais; e aplicar as avaliações presenciais.Um exemplo típico de facilitador é o responsável pelo polo de educação a distância onde acontece um curso.
+
+O suporte abrange todo o pessoal responsável pelos aspectos técnicos e administrativos relacionados com a educação a distância. O pessoal do suporte técnico é responsável por operar e manter equipamentos, configurar sistemas e monitorar canais de comunicação e, em alguns sistemas de educação a distância, também podem existir responsáveis pelo projeto pedagógico e gráfico do material didático. O pessoal do suporte administrativo é responsável por gerenciar matrículas, processar notas e diários, emitir declarações, certificados e diplomas, e organizar documentos, de maneira semelhante à função exercida em uma instituição de ensino convencional. 
+
+O administrador ou coordenador é responsável por gerenciar o sistema de educação a distância com foco na gestão acadêmica. Ao administrador compete decidir sobre equipamentos e recursos de software, definir a política de pessoal, estabelecer prioridades, mediar conflitos entre outras atividades. Nesse sentido, o administrador deve sempre manter um foco acadêmico nas
+suas ações.
+
+O material didático é responsável por disponibilizar o conteúdo principal do curso ao estudante e servir de apoio para as atividades. Esse material pode ser concretizado nas mais diversas formas: página web, e-book, documento digital (PDF), imagem, áudio e vídeo, programas educacionais entre outros. O material didático é a referência primária de informação e deve incentivar o estudante a buscar novos conhecimentos de forma independente.
+
+O sistema de gerenciamento de aprendizagem (LMS, do inglês Learning Management System) é formado por diversos módulos responsáveis por uma ou mais das seguintes funções principais: configurar cursos; controlar acesso a cursos; gerenciar inscrições; registrar acessos dos estudantes; editar e disponibilizar material didático; oferecer suporte à comunicação; e elaborar avaliações. Esse sistema também é conhecido por Ambiente Virtual de Aprendizagem (AVA ou VLE, do inglês Virtual Learning Environment). 
+
+Dependendo do sistema de educação a distância, outros componentes podem aparecer com outras denominações e/ou funções, muitas vezes decorrente de alguma demanda pedagógica ou gerencial ou de um desdobramento a partir de um componente existente. Por exemplo, o suporte técnico pode incluir um conteudista, ou professor conteudista, responsável por desenvolver, organizar e definir o conteúdo a ser disponibilizado no curso. 
+
+### REFERÊNCIAS 
+BRASIL. Decreto nº 9.057, de 25 de maio de 2017. Regulamenta o art. 80 da Lei nº 9.394, de 20 de dezembro de 1996 , que estabelece as diretrizes e bases da educação nacional. 2017. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-
+2018/2017/Decreto/D9057.htm. Acesso em: 17 maio 2020.
+
+GOMES, S. G. S. Tópicos em Educação a Distância. 3. ed. Rio de Janeiro: Fundação CECIERJ, 2009.
+
+KEEGAN, D. Foundations of distance education. 3rd ed. London:
+Routledge, 1996.
+
+KEEGAN, D. On defining distance education. In: SEWART, D.; KEEGAN, D.; HOLMBERG, B. (ed.). Distance education: international perspectives. London: Croom Helm, 1980. p. 6-18. 
