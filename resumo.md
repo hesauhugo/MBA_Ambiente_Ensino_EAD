@@ -633,3 +633,183 @@ KEEGAN, D. Foundations of distance education. 3rd ed. London:
 Routledge, 1996.
 
 KEEGAN, D. On defining distance education. In: SEWART, D.; KEEGAN, D.; HOLMBERG, B. (ed.). Distance education: international perspectives. London: Croom Helm, 1980. p. 6-18. 
+
+# Aula 04
+
+## PEDAGOGIA, ANDRAGOGIA E HEUTAGOGIA
+
+No senso comum, a pedagogia é considerada como a arte de ensinar crianças. Esse conhecimento popular ocorre porque a pedagogia foi, por muito tempo, o único curso de graduação que especificamente formava professores no contexto de uma metodologia para a educação de crianças.
+
+Nessa metodologia originária da pedagogia tradicional, a educação era centrada no professor e a atividade de ensinar era apropriada para crianças, e utilizada também para a educação de jovens e adultos. Os professores assumiam total responsabilidade por tomar decisões sobre o que seria aprendido, como e quando aconteceria, uma vez que o estudante era considerado imaturo para se preparar para a vida e tomar decisões. Essa metodologia persistiu por muito tempo e ainda deixa seus traços no processo de ensino e aprendizagem das diversas modalidades da educação.
+
+Libâneo (2001) destaca que, de fato, a pedagogia se ocupa com a formação escolar de crianças, processos educativos, métodos de ensinar, mas também tem um significado bem mais amplo e globalizante. Além disso, destaca que a pedagogia é um campo de conhecimento sobre a problemática da educação na sua totalidade e, ao mesmo tempo, uma diretriz orientadora da ação educativa.
+
+A pedagogia busca compreender a educação muito além da educação, como 
+possibilidade de reflexão acerca do processo educativo nas suas dimensões sociais, históricas, filosóficas e instrumentais. Dessa maneira, possibilita o aparecimento de novas práticas educativas, que se encarregam de disponibilizar meios para instruir e educar permanentemente o homem em
+qualquer período do seu desenvolvimento e em função da sua vida cultural e social.
+
+Entre essas novas práticas educativas, pode-se destacar a andragogia e a 
+heutagogia, que surgem a partir da necessidade de melhor adequar os métodos de ensino às diferentes faixas etárias e ao estágio de desenvolvimento intelectual dos estudantes. A andragogia e a heutagogia são consideradas como desdobramentos da pedagogia, com o objetivo de ampliar o seu alcance e utilidade, principalmente quando o ensino se direciona aos jovens e adultos, nos quais se manifestam mais as diferenças individuais.
+
+Antes de conhecer os detalhes, considera-se oportuno apresentar esses conceitos ligados à educação de maneira resumida, com base em Litto (2009):
+
+* A pedagogia refere-se à aprendizagem de crianças e adolescentes;
+* A andragogia refere-se à aprendizagem de adultos;
+* A heutagogia refere-se à aprendizagem autônoma, independente de
+faixa etária.
+
+As concepções educacionais relacionadas à pedagogia, andragogia e heutagogia auxiliam a compreensão do papel da experiência na aprendizagem, em processos de educação a distância mediados por tecnologias, dos quais participam predominantemente estudantes adultos.
+
+### Referências
+Texto adaptado de:
+LIBÂNEO, J. C. Pedagogia e pedagogos: inquietações e buscas. Educar em
+Revista, v. 17, n. 17, p. 153-173, 2001.
+
+LITTO, F. M. O atual cenário internacional de EAD. In: LITTO; F. M.;
+FORMIGA, M. M. M. (org.). Educação a distância: o estado da arte. São
+Paulo : Pearson Education do Brasil, 2009. 
+
+## ANDRAGOGIA
+
+O modelo pedagógico tradicional, aplicado também ao estudante adulto, persistiu através dos tempos e foi a base da organização do sistema educacional atual. Esse modelo confere responsabilidade total ao professor para tomar todas as decisões a respeito do que será aprendido, como será aprendido, quando será aprendido e se foi aprendido. Portanto, é um modelo centrado no professor, deixando ao estudante somente o papel de seguir instruções.
+
+O estudante adulto se caracteriza basicamente pelo autodirecionamento 
+decorrente de uma maturidade orgânica e psicológica. Para ser adulto, o indivíduo atingiu um estágio de maturação que lhe possibilita assumir responsabilidades pela própria vida, no âmbito familiar, social e  profissional.
+
+Além disso, o adulto segue acumulando cada vez mais experiências, que compõem um importante banco de recursos para o desenvolvimento da sua aprendizagem. Por essas razões, a educação de adultos demanda conceitos
+e métodos específicos que valorizam a autonomia do estudante. 
+
+O modelo andragógico, portanto, é fundamentado em vários pressupostos que são diferentes daqueles do modelo pedagógico tradicional. No quadro a seguir é apresentada uma comparação entre a pedagogia tradicional e a andragogia.
+
+<div align = "center">
+    <img src="pedagogia_vs_andragogia.png"/>
+</div>
+
+Malcolm Shepherd Knowles (1913-1997) é considerado o “pai da andragogia”
+devido à sua influência na disseminação da perspectiva andragógica sobre a educação de adultos. Na sua teoria de aprendizagem, a andragogia está associada a alguns pressupostos básicos sobre os estudantes adultos.
+
+O estudante adulto precisa saber por que deve aprender algo antes de
+começar a aprender de fato. Para investir o seu tempo e a sua atenção em
+uma proposta educacional, o adulto precisa avaliar quais são os benefícios em termos de qualidade de vida ou melhoria no desempenho profissional e quais as consequências negativas caso não aprenda.
+
+À medida que uma pessoa amadurece, deixa de ser dependente para se tornar uma pessoa autodirigida. O estudante adulto se considera como responsável por sua própria vida e por suas decisões, e quer ser visto e tratado pelos outros como capaz de se autodirigir, isto é, de escolher seu próprio caminho.
+
+O estudante adulto acumula um conjunto crescente de experiências que se torna um recurso cada vez maior e que é diferente e único. Por essa razão, o estudante adulto se envolve em uma atividade educacional com muito mais experiência em relação a uma criança ou jovem. Essa diferença tem consequências na educação do adulto, principalmente com relação a técnicas de ensino.
+
+O estudante adulto está sempre disponível para aprender aquilo que pode ser utilizado para solucionar problemas da vida real. Assim, conforme
+amadurece, a sua prontidão para aprender se torna cada vez mais orientada para o seu desenvolvimento com o objetivo de desempenhar melhor o seu papel social.
+
+Em contraste com a orientação da aprendizagem centrada no conteúdo, própria da aprendizagem de crianças e jovens, a do estudante adulto está centrada na aplicação imediata do conhecimento em contextos da vida real.Esse imediatismo se contrapõe à aplicação adiada do conhecimento, que é característico da educação infanto-juvenil.
+
+Os fatores motivacionais mais poderosos do estudante adulto para a aprendizagem são os internos, como o desejo de obter satisfação no trabalho, autoestima e qualidade de vida. Além disso, pesquisas de comportamento mostram que todos os adultos considerados normais são motivados a continuar crescendo e se desenvolvendo. Alguns fatores externos, como melhores cargos e promoções, também costumam despertar o interesse do estudante adulto.
+
+Atualmente, existe um reconhecimento de que a andragogia não se opõe à pedagogia, como se a primeira fosse uma abordagem moderna e a segunda ultrapassada. Na realidade, existe consenso de que a andragogia se presta a explicar como as pessoas aprendem em uma fase diferenciada da vida, na qual exercem papéis diferenciados em contextos sociais e profissionais distintos. 
+
+### Referencias
+
+Texto adaptado de:
+ALMEIDA, M. E. B. As teorias principais da andragogia e heutagogia. In:
+LITTO; F. M.; FORMIGA, M. M. M. (org.). Educação a distância: o estado
+da arte. São Paulo : Pearson Education do Brasil, 2009. p. 105-111.
+
+DEAQUINO, C. T. E. Como aprender: andragogia e as habilidades de
+aprendizagem. São Paulo: Pearson Prentice-Hall, 2007. 
+
+## Heutagogia
+
+O conceito de heutagogia surge com o estudo da autoaprendizagem na perspectiva do conhecimento compartilhado. Esse conceito expande a concepção de andragogia ao reconhecer as experiências cotidianas como fonte de saber e incorpora a autodireção da aprendizagem com foco nas experiências.
+
+O modelo heutagógico vai além da aprendizagem autodirigida, pois é um paradigma educacional que propõe, em contraposição à andragogia e à pedagogia, um processo em que o professor propõe os recursos, mas cabe ao estudante traçar seu percurso de aprendizagem, autodeterminando o que considera relevante.
+
+A heutagogia é fundamentada na andragogia, mas amplia ainda mais o modelo andragógico e pode ser entendida como um contínuo da andragogia. No quadro a seguir, esse contínuo é ilustrado de maneira resumida.
+
+<div align = "center">
+    <img src="andragogia_vs_heutagogia.png"/>
+</div>
+
+A heutagogia, a aprendizagem autodeterminada ou autônoma, está preocupada em entender como as pessoas aprendem melhor sozinhas e como os métodos derivados deste entendimento podem ser utilizados no processo educacional. Nesse contexto, o estudante é o elemento central no processo da aprendizagem e o professor orienta como mais um agente nesse complexo não linear.
+
+A Heutagogia não é algo que se faz às pessoas. Em tempos de grande acesso à informação, a heutagogia não trata diretamente da relação ensinoaprendizagem, mas aprofunda a discussão quanto à aprendizagem (as
+pessoas estão pré-dispostas a aprender). Portanto, a questão está no
+desenvolvimento individual, no como aprender a aprender. A proposta é que os modelos de oferta sejam pensados e preparados visando a habilidade de aprender o processo de adquirir conhecimento.
+
+Muitas pessoas estão relacionando a heutagogia à chamada “geração digital”, nascida pós-década de 1980 e criada em uma cultura tecnológica naturalmente propícia a práticas educacionais abertas. No entanto, considerando a sua natureza completamente aberta e livre, a heutagogia não se restringe a uma faixa etária específica.
+
+A heutagogia tem apoio na possibilidade de pessoas de todas as idades e condições aprenderem livremente qualquer assunto ou área de conhecimento. A internet abriu essa oportunidade para estudantes de todas as idades e em todas as áreas de conhecimento. Atualmente, o estudante pode escolher o que deseja estudar, a tecnologia mais conveniente para a aprendizagem, o método pedagógico com o qual se sente mais confortável, o horário e dia da semana mais apropriados e o ritmo desejado.
+
+Essa nova abordagem, em que o estudo acontece sem a presença intensiva do professor, requer autonomia de quem aprende, pois deve ser capaz de gerenciar a rotina de estudos, elencar prioridades quanto ao conteúdo e testar diversas estratégias para aquisição de conhecimento. Portanto, podese reconhecer a adequação desse modelo educacional ao contexto da educação a distância, pois proporciona a valorização das experiências pessoais dos estudantes, suas necessidades de assimilação e desenvolvimento de habilidades.
+
+A heutagogia ainda está em processo de se firmar como um corpo de conhecimento. Por se tratar de um conceito mais recente que o de andragogia, seria razoável dizer que talvez seja mais uma teoria em construção do que um paradigma distintamente reconhecido.
+
+### Referências
+
+ALMEIDA, M. E. B. As teorias principais da andragogia e heutagogia. In:
+LITTO; F. M.; FORMIGA, M. M. M. (org.). Educação a distância: o estado
+da arte. São Paulo : Pearson Education do Brasil, 2009. p. 105-111.
+
+BLASCHKE, L. M. Heutagogy and lifelong learning: A review of heutagogical practice and self-determined learning. The International Review of Research in Open and Distance Learning, v. 13, n.1, p. 56-71, 2012.
+
+HASE, S.; KENYON, C. Self-determined Learning: Heutagogy in action.
+London: Bloomsbury Publishing, 2013. 
+
+## Atividade 1
+
+Diversas variáveis psicológicas são apontadas como mediadoras do processo ensino e aprendizagem. Dentre essas variáveis, os estilos cognitivos ou de aprendizagem têm sido objeto de estudo e discussão por pesquisadores de diversos países. 
+
+Apesar das diversas abordagens diferentes que podem ser encontradas, existe consenso em um aspecto: os diferentes estilos não implicam níveis de habilidade, capacidade ou inteligência. Não se trata de uma habilidade inerente, e sim do modo preferencial de uma pessoa usar as suas habilidades. Portanto, não existem estilos bons ou ruins, mas apenas diferentes.
+
+Os estilos podem ser entendidos como características da estrutura cognitiva de uma pessoa, que são definidas em parte por fatores biológicos e são modificadas a partir da influência direta ou indireta de novos eventos. Os estilos denotam diferentes tendências básicas nas formas de apreender, de relacionar os dados da realidade e de elaborar conclusões. 
+
+Os principais estilos de aprendizagem (ou estilos cognitivos) são os seguintes:
+
+* Convergente (lógico, disciplinado e conservador): O estilo convergente refere-se a pessoas com preferência acentuada para o pensamento lógico e com habilidade para tratar problemas que requerem uma clara resposta convencional. Geralmente, são inibidas emocionalmente e identificadas como mais conformistas, disciplinadas e conservadoras.
+
+* Divergente (criativo e imaginativo): O estilo divergente está associado à criatividade, a respostas imaginativas, originais e fluentes. Esse estilo refere-se a pessoas com preferência por problemas informais e com habilidade para tratar problemas que demandam a generalização de várias respostas igualmente aceitáveis. Socialmente, são consideradas irritadiças, disruptivas e até ameaçadoras.
+
+* Holista (trabalha com contexto global e hipóteses complexas): O estilo holista refere-se a colocar ênfase ao contexto global desde o início de uma tarefa e utilizar hipóteses mais complexas. As pessoas com estilo holista preferem examinar uma grande quantidade de dados, buscando padrões e relações entre eles.
+
+* Serialista (trabalha com tópicos separados e sequências lógicas): O estilo serialista refere-se a colocar ênfase a tópicos separados e em sequências lógicas, buscando posteriormente padrões e relações no processo, para confirmar ou não as hipóteses. As pessoas com estilo serialista utilizam uma abordagem lógico-linear e hipóteses mais simples.
+
+* Impulsivo (fornece respostas com pouca ponderação e organização): O estilo impulsivo refere-se a pessoas que fornecem respostas imediatas e frequentemente imprecisas, com pouca ponderação e organização prévias. As pessoas com características marcantes do estilo impulsivo apresentam melhor desempenho em tarefas que requerem processos globais.
+
+* Reflexivo (fornece respostas com ponderação e organização): O estilo reflexivo refere-se a pessoas com formas de pensar organizadas e sequenciadas e com tendência à ponderação prévia para suas respostas. As pessoas com características marcantes do estilo reflexivo apresentam melhor desempenho em tarefas que requerem processos detalhados.
+
+Os estilos convergente e divergente geralmente indicam características de personalidade. Os estilos holista e serialista referem-se muito mais a uma forma de abordar o trabalho, sem muitas indicações do tipo de pessoa. Os estilos impulsivo e reflexivo estão relacionados à maneira de fornecer respostas e associados a um aspecto mais amplo de organização e de atenção enquanto processo cognitivo.
+
+a. Indique um (1) dos estilos apresentados que você acredita ser o seu estilo dominante (que possui uma importância maior em relação aos demais).
+* Resposta:
+    * O meu estilo dominante é o reflexivo, faço ponderações e analises prévias, gosto de detalhar as atividades e saber o passo a passo até o objetivo.
+
+b. Indique um ou dois (1 ou 2) dos estilos apresentados que você acredita ser o(s) seu(s) estilo(s) de apoio (que possui uma importância menor em relação ao dominante e maior em relação aos demais).
+* Resposta: 
+    * O primeiro estilo de apoio é o Holista, gosto de trabalhar focado no resultado final, sempre avaliando o processo como um todo. 
+    * O segundo estio de apoio é o Divergênte, este é um estilo que embora seja o mais fraco dentre os outros, tende a me prejudicar porque no processo criativo tenho um hiperfoco e se não tiver uma metodologia eu fico horas em uma unica atividade.
+
+## Atividade 2 
+
+Realize a seguinte atividade:
+
+1. Faça o download do arquivo ESTILOS_DE_APRENDIZAGEM.xlsx disponível em https://nuvem.utfpr.edu.br/index.php/s/zgz69fDK3Y1e5NW.
+
+2. Na “Planilha1” desse arquivo, para cada uma das dezoito (18) “Afirmações” indique o seu “Nível de concordância” (1 – Discordo Totalmente, 2 – Discordo, 3 – Indeciso, 4 – Concordo e 5 – Concordo Totalmente). Para responder ao instrumento, você deve pensar no que acontece com mais frequência, além de não deixar nenhuma afirmação sem pontuação.
+
+3. Na “Planilha2” desse arquivo, consulte o resultado para o seu estilo dominante e para o(s) seu(s) estilo(s) de apoio. A maior média indica o seu estilo de aprendizagem dominante.
+
+4. Analise o resultado em relação às suas escolhas feitas na primeira etapa e compartilhe com os colegas por meio de uma postagem de resposta.
+
+a. Houve alguma coincidência? Qual a sua opinião?
+* Resposta
+    * Sim as notas foram 4, 3.67, 3.33, 3.33 para Reflexivo, Holista, Divergente e Serialista respectivamente.
+    * No exercício anterior, eu vi que possuía características serialista, porém o resultado mostra que eu possuo a mesma pontuação de divergente e serialista.
+    * Acredito que o resultado está de acordo com o meu perfil
+b. Houve alguma discrepância? Qual a sua opinião?
+* Resposta
+    * Acredito que não houve nenhuma discrepância.
+    * Dificilmente tomo atitgudes por impulso por isso a nota foi baixa (1.33) e embora eu seja lógico e disciplinado o perfil convergênte não é uma das características dominantes, pois gosto de questionar e entender  e traçar cenários antes de realizar alguma atividade por isso na nota (3).
+
+Observação 1: o instrumento utilizado para a atividade pode ser considerado bastante limitado. Em linhas gerais, somente é possível afirmar que os resultados mostram tendências com relação ao seu estilo de aprendizagem.
+
+Observação 2: o aluno Rafael Alves desenvolveu em 2023 uma aplicação web, disponível em https://estilos-aprendizagem.web.app/, como uma alternativa para o uso do arquivo ESTILOS_DE_APRENDIZAGEM.xlsx. 
+
+### Aplicativo para teste
+[https://estilos-aprendizagem.web.app/]
