@@ -813,3 +813,127 @@ Observação 2: o aluno Rafael Alves desenvolveu em 2023 uma aplicação web, di
 
 ### Aplicativo para teste
 [https://estilos-aprendizagem.web.app/]
+
+### outros recursos
+[https://estiloaprendizagemkolb.github.io/]
+[https://metacognicao.com.br/questionario_estilos.php]
+[https://www.16personalities.com/br]
+
+# Aula 5
+
+## AVALIAÇÃO DA APRENDIZAGEM
+
+A avaliação da aprendizagem tem sido um dos aspectos mais discutidos na Educação e é algumas vezes bastante polêmico. A razão disso é o fato de que, no ensino presencial, tradicionalmente os estudantes são avaliados de
+maneira quantitativa, por meio da atribuição de uma nota, e geralmente após algumas avaliações pontuais realizadas no decorrer de um período. Esse mecanismo, considerado autoritário e classificatório, não está de acordo com
+a ideia de que a avaliação possa ser um instrumento de aprendizagem, como parte da construção do conhecimento do estudante.
+
+Na Educação a Distância, também ocorre a discussão a respeito da avaliação da aprendizagem, uma vez que existe uma tendência em reproduzir as práticas utilizadas no ensino presencial. Entretanto, existem características
+que devem ser consideradas e respeitadas quando se trata de avaliação da aprendizagem na Educação a Distância:
+* As atividades são realizadas em tempo e/ou espaço diferentes;
+* O processo de ensino e aprendizagem é mediado por tecnologias;
+* O estudante exerce mais autonomia e controle da sua aprendizagem.
+
+O papel da avaliação da aprendizagem é o de trazer subsídios para o processo
+de ensino e aprendizagem. Portanto, deve ser realizada não somente ao
+término desse processo, mas também enquanto ainda se encontra corrente
+e passível de modificação. Nesse contexto, são funções principais da
+avaliação da aprendizagem: 
+* Avaliar para conhecer os estudantes;
+* Determinar se os objetivos previstos para o processo de ensino e
+aprendizagem foram ou não atingidos; 
+* Aperfeiçoar o processo de ensino e aprendizagem;
+* Diagnosticar as dificuldades de aprendizagem;
+* Promover os estudantes (no sentido de progressão escolar).
+
+Essas funções podem ser agrupadas em três macro funções da avaliação
+(diagnosticar, controlar e classificar):
+
+* A função diagnosticar é caracterizada pela verificação de pré-requisitos com relação aos conhecimentos e habilidades necessários para a aprendizagem de algo novo; 
+
+* A função controlar é caracterizada pelo acompanhamento dos resultados que estão sendo alcançados durante o desenvolvimento das atividades, com o objetivo de melhorar o ensino e a aprendizagem e identificar deficiências no desenvolvimento; 
+
+* A função classificar é caracterizada pela observação do rendimento do estudante e pela classificação com base em resultados, de forma a confirmar a expectativa quanto ao desempenho de sua aprendizagem. 
+
+A decisão de qual estratégia de avaliação da aprendizagem é a mais adequada de acordo com os objetivos e com o perfil dos estudantes geralmente é compartilhada entre a instituição de ensino, coordenação de curso, professores e equipe pedagógica.
+
+A condução das avaliações é realizada com o objetivo de ser a mais ampla e justa possível, e para permitir que o estudante tenha um retorno (feedback) para a decisão do que precisa ser melhorado ou aprofundado. 
+
+Com base nos resultados das avaliações, o estudante realiza uma comparação com os seus próprios objetivos de aprendizagem, e pode chegar à conclusão de que tem de reforçar os seus estudos ou então continuar no mesmo ritmo, se considerar que os resultados estão compatíveis com aquilo que esperava. 
+
+A ausência de avaliação da aprendizagem dificulta a obtenção de parâmetros de desempenho que sejam confiáveis. Nesse caso, a situação é complicada para todas as partes envolvidas pelo fato de não se ter dados indicando se as
+decisões foram corretas ou não.
+
+### Referências
+
+Texto adaptado de:
+FAGANELLO, J.; REIS, E.; GUIMARÃES, M. I. P. Os instrumentos de avaliação da aprendizagem e a avaliação formativa em educação a distância. In: SIMPÓSIO INTERNACIONAL DE EDUCAÇÃO A DISTÂNCIA E ENCONTRO DE PESQUISADORES EM EDUCAÇÃO A DISTÂNCIA, SIED:EnPED, 4., 2016, São Carlos. Anais [...]. São Carlos: UFSCAR, 2016. p. 1-12.
+
+HAYDT, R. C. C. Avaliação do processo ensino-aprendizagem. 6. ed. São Paulo: Ática, 1997.
+
+RODRIGUES, E. F. A avaliação e a tecnologia: a questão da verificação da aprendizagem no modelo de ensino híbrido. In: BACICH, L.; NETO, A. T.; TREVISANI, F. M. Ensino híbrido: personalização e tecnologia na educação. Porto Alegre: Penso, 2015. p. 141-154. 
+
+## MODALIDADES DE AVALIAÇÃO
+
+A avaliação da aprendizagem envolve numerosos conceitos, funções, características, objetivos e modalidades. As suas principais (macro) funções – diagnosticar, controlar e classificar – formam uma base para a definição de três modalidades ou tipos de avaliação:
+
+* Avaliação diagnóstica;
+* Avaliação formativa;
+* Avaliação somativa. 
+
+No quadro a seguir, as principais características das modalidades de avaliação são apresentadas de maneira resumida. 
+
+<div align = "center">
+    <img src="modalidades_de_avaliacao.png"/>
+</div>
+
+* As diversas atividades de ensino e aprendizagem tornam possível a apropriação pelo estudante de conhecimentos e habilidades, mas é necessário um processo de avaliação que revele se as estratégias utilizadas estão tendo sucesso. Portanto, independente da modalidade, a avaliação é uma das etapas que compõem o processo educacional.
+
+## AVALIAÇÃO DIAGNÓSTICA 
+
+A finalidade da avaliação diagnóstica é verificar se o estudante apresenta ou não o domínio dos pré-requisitos necessários para a aprendizagem de algo novo. Esses pré-requisitos compreendem os conhecimentos e habilidades imprescindíveis para uma disciplina ou curso.
+
+Apesar de aparentemente apresentar um caráter inicial, a avaliação diagnóstica não precisa ser aplicada apenas no início de um período letivo. O ideal é que seja aplicada antes de cada unidade de ensino, para verificar quais informações os estudantes possuem sobre o assunto e quais habilidades apresentam para dominar o conteúdo.
+
+A partir dos resultados de uma avaliação diagnóstica é possível decidir se é necessário retomar objetivos não atingidos e/ou elaborar diferentes estratégias de reforço. Além disso, pode ser providenciada alguma situação alternativa para que a maioria dos estudantes consigam atingir os objetivos estabelecidos.
+
+A avaliação diagnóstica também tem a finalidade de identificar as dificuldades de aprendizagem, buscando distinguir e caracterizar suas possíveis causas. Algumas dessas dificuldades podem ser de natureza cognitiva, com origem no próprio processo de ensino e aprendizagem. Além de cognitivas, o estudante também pode apresentar dificuldades de natureza afetiva e emocional. Assim, a avaliação diagnóstica também pode ser utilizada para a melhoria do processo educacional como um todo.
+
+## AVALIAÇÃO FORMATIVA
+
+A finalidade da avaliação formativa é verificar, durante o desenvolvimento das atividades, se o estudante está atingindo os objetivos estabelecidos. Dessa maneira, a avaliação formativa visa assegurar o alcance dos objetivos em questão antes de seguir para uma etapa subsequente do processo de ensino e aprendizagem.
+
+A avaliação formativa é a modalidade que mais pode ser considerada como
+parte integrante do processo de ensino e aprendizagem, pois fornece a retroalimentação (feedback) necessária para identificar deficiências no ensino ou dificuldades na aprendizagem, e permitir o aperfeiçoamento tanto curricular quanto metodológico. De maneira ideal, a aplicação da avaliação formativa deveria ser permanente ou contínua. De fato, a avaliação contínua nada mais é do que uma avaliação formativa permanente. 
+
+A aplicação frequente de avaliações formativas regula a aprendizagem dos estudantes e ajuda a motivá-los a empenhar o esforço necessário no momento adequado. Essa afirmação denota o caráter contínuo da avaliação
+formativa. No entanto, as circunstâncias que tornam certos momentos mais relevantes do que outros para a avaliação formativa podem variar de uma unidade de ensino para outra. Assim, para qualquer unidade de ensino deve-se identificar quais são essas circunstâncias para determinar os momentos adequados de avaliação formativa.
+
+## AVALIAÇÃO SOMATIVA
+
+Enquanto a avaliação diagnóstica apresenta caráter inicial, a avaliação
+somativa está situada no outro extremo do processo de ensino e aprendizagem, e apresenta um caráter final e classificatório. A finalidade da avaliação somativa é formar juízo acerca do progresso realizado pelo estudante ao final de uma unidade de ensino, no sentido de aferir os resultados obtidos previamente por avaliações formativas e obter indicadores para permitir o aperfeiçoamento do processo de ensino e aprendizagem.
+
+No passado, a avaliação da aprendizagem muitas vezes era de natureza exclusivamente somativa, sendo realizada apenas no final (disciplina ou curso), quando era tarde demais para se modificar qualquer processo, pelo menos para aquela turma específica. Apesar de não permitir reflexões e mudanças para a turma na qual foi aplicada, a avaliação somativa permite aferir resultados de aprendizagem, introduzir correções no processo educacional, além de servir para classificar os estudantes. Assim, a avaliação somativa corresponde a um resultado (final) relativo a um todo, uma vez que até este ponto somente tinham sido obtidos resultados parciais.
+
+Existe uma distinção entre avaliação somativa a longo prazo e o que é denominado de avaliação somativa intermediária. A primeira, geralmente realizada ao final de um curso, permite aferir a extensão em que o estudante atingiu a amplitude de todos os objetivos estabelecidos. A avaliação somativa intermediária gira em torno de inferir resultados mais diretos, e menos generalizáveis, uma vez que considera um conteúdo ou grupo de conteúdo menor e mais específico. Em determinadas situações, portanto, é possível afirmar que a avaliação somativa tem caráter formativo porque podem ser feitos ajustes no processo como um todo quando se utilizam avaliações somativas intermediárias.
+
+### Referências
+
+Texto adaptado de:
+CORTELAZZO, I. B. C. Prática pedagógica, aprendizagem e avaliação em educação a distância. Curitiba: InterSaberes, 2013.
+
+HADJI, C. A avaliação desmistificada. Porto Alegre: Artmed, 2001.
+
+HAYDT, R. C. C. Avaliação do processo ensino-aprendizagem. 6. ed. São Paulo: Ática, 2000.
+
+RIBEIRO, L. C. Avaliação da aprendizagem. 5. ed. Lisboa: Texto Editora, 1994.
+
+SANT´ANNA, I. M. Por que avaliar? Como avaliar? Critérios e instrumentos. 17. ed. Petrópolis: Vozes, 2014. 
+
+### Outros materiais
+
+[https://horizontes.sbc.org.br/index.php/2021/08/equivocos-sobre-avaliacao/]
+[https://www.bts.senac.br/bts/article/view/648]
+
+## Aula 6
+
