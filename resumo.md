@@ -935,5 +935,149 @@ SANT´ANNA, I. M. Por que avaliar? Como avaliar? Critérios e instrumentos. 17. 
 [https://horizontes.sbc.org.br/index.php/2021/08/equivocos-sobre-avaliacao/]
 [https://www.bts.senac.br/bts/article/view/648]
 
-## Aula 6
+# Aula 6
+
+## GESTÃO DE SISTEMAS DE EDUCAÇÃO A DISTÂNCIA 
+
+O texto a seguir, que aborda a “Gestão de Sistemas de Educação a Distância”, é de autoria de Alvana Maria Bof da época em que atuava na Secretaria de Educação a Distância do Ministério da Educação (MEC) e foi adaptado a partir de Pimentel (2006).
+
+Cada vez mais torna-se evidente a importância da gestão em programas educacionais. Quando esse requisito não é tratado com a devida atenção, boas ideias podem se perder ou resultar em programas pobres e ineficazes. 
+
+No caso da educação a distância, isso não é diferente. Os sistemas de Educação a Distância (EAD) são complexos e exigem uma gestão eficiente para que os resultados educacionais possam ser alcançados. Uma vez definidos os objetivos educacionais, o projeto pedagógico, as etapas e atividades, a estrutura de apoio à aprendizagem, as tecnologias a serem utilizadas, o método de avaliação e os procedimentos formais acadêmicos, considera-se fundamental que sejam estabelecidas as estratégias pelas quais se pode assegurar o funcionamento do sistema de EAD como um todo e conforme o previsto.
+
+Os sistemas de EAD são compostos por uma série de componentes que devem funcionar de maneira integrada. Dependendo da instituição de ensino, da abrangência de sua área de atuação, dos objetivos educacionais propostos e da natureza dos cursos oferecidos, a estrutura do sistema de EAD pode ser mais ou menos complexa. De um modo geral, pode-se dizer que os sistemas de EAD apresentam:
+
+1. Mecanismo de planejamento, preparação e disponibilização de
+materiais instrucionais;
+2. Estrutura para a provisão de serviços de apoio à aprendizagem;
+3. Serviços para o acesso do estudante às informações necessárias ao
+desenvolvimento de suas atividades no curso;
+4. Método sistemático de avaliação definido e operacional;
+5. Estrutura física, tecnológica e de pessoal compatível com a
+abrangência da atuação da instituição de ensino e o tipo de projeto
+pedagógico dos cursos oferecidos;
+6. Estrutura e mecanismo de monitoramento e avaliação do sistema de
+EAD.
+
+O termo gestão faz referência à maneira como se organizam e gerenciam as partes que compõem um sistema, com o propósito de alcançar os objetivos propostos. Para fins de ilustração, pode-se separar a gestão de sistemas de EAD em dois grupos: gestão pedagógica; e gestão de sistema.
+
+## GESTÃO PEDAGÓGICA 
+
+A gestão pedagógica envolve o gerenciamento das etapas e atividades do
+curso, bem como do sistema de apoio à aprendizagem e à avaliação. As etapas e atividades devem estar claramente definidas e devem ser planejadas e coordenadas para que ocorram eficientemente, da maneira programada e no tempo previsto.
+
+O sistema de apoio à aprendizagem do estudante previsto no sistema precisa funcionar de maneira eficiente. Assim, se o sistema estabelece uma tutoria para o acompanhamento dos estudantes, esta deve estar claramente definida, com as funções e as atividades do tutor estabelecidas e todos os procedimentos para o exercício desta função formalizados. Além disso, também é preciso estabelecer mecanismos gerenciais para o acompanhamento do trabalho dos tutores. Nesse sentido, mais do que saber “o que fazer”, é preciso que todos os elementos do sistema saibam “como fazer”, isto é, quais os procedimentos empregados no desenvolvimento de suas atividades.
+
+Para uma gestão pedagógica de qualidade é preciso ainda que o sistema de avaliação esteja claramente definido e seja conhecido por todos. Assim, além de determinar qual a sistemática de avaliação formativa/somativa adotada na proposta pedagógica, é preciso que se definam indicadores e instrumentos que possibilitem o desenvolvimento desta avaliação na prática, e quem serão os agentes encarregados desse processo.
+
+Em sua gestão, todo sistema de EAD deve prever a definição, a estruturação e o funcionamento sistemático das partes que compõe a sua proposta pedagógica, bem como prever, como apresentado a seguir, a preparação, o acompanhamento, o monitoramento e a avaliação das diversas equipes envolvidas.
+
+## GESTÃO DE SISTEMA
+
+Em geral, a gestão de sistema envolve todas as outras necessidades de gerenciamento: de recursos financeiros, de pessoal, de treinamentos, de produção e distribuição de materiais, de tecnologia da informação, de processos acadêmicos e de monitoramento e avaliação. De modo geral, a gestão de sistema refere-se ao gerenciamento de processos que são inerentes ao funcionamento eficiente do sistema de EAD.
+
+Normalmente, os sistemas de EAD envolvem o gerenciamento dos recursos financeiros disponíveis (que são finitos) e a prestação de contas a entidades ou órgãos associados à instituição de ensino. Um sistema de EAD exige diversos recursos, que devem ser gerenciados de modo a garantir a sua eficiência e eficácia. 
+
+Do mesmo modo, os sistemas de EAD envolvem um quadro de pessoal e, dependendo de sua estrutura, a capacitação técnica específica deste quadro e/ou a realização de treinamentos periódicos. Como mencionado anteriormente, todos os envolvidos devem saber claramente “o que fazer” e “como fazer”. Por outro lado, a gestão deve acompanhar o trabalho dos envolvidos para identificar pontos que ainda não foram bem compreendidos e que devem ser reforçados.
+
+A gestão da tecnologia da informação (TI) deve assegurar o pleno funcionamento das tecnologias empregadas. A gestão de TI abrange o gerenciamento dos recursos tecnológicos, com a responsabilidade de operar e manter equipamentos, configurar sistemas e monitorar canais de comunicação. Além disso, também é responsável pelos processos e ferramentas relacionados ao tratamento, armazenamento e proteção das informações.
+
+Da mesma maneira como ocorre nos sistemas de educação presencial, os cursos na modalidade de educação a distância geralmente demandam mecanismos semelhantes com relação ao registro da vida acadêmica do estudante. Esse gerenciamento pode incluir desde o modo como o estudante se inscreve nos cursos oferecidos e o registro de sua efetiva participação e avaliação até o procedimento de certificação.
+
+Finalmente, é importante salientar a necessidade que todo sistema de EAD tem de estabelecer e operar um mecanismo contínuo de monitoramento e avaliação. O aperfeiçoamento de um sistema de EAD somente é obtido por meio do estabelecimento de mecanismos para obter dados e acompanhar o seu funcionamento, tanto no que se refere ao alcance dos objetivos propostos quanto ao desenvolvimento dos processos.
+
+Os sistemas de EAD são complexos, pois envolvem uma série de componentes que devem funcionar de maneira integrada. No momento em que um dessas componentes apresenta problemas, o todo pode ser comprometido. Assim, desde o início, alguns mecanismos devem ser estabelecidos para a identificação de problemas, de modo que estratégias possam ser definidas para a sua imediata resolução.
+
+## CONSIDERAÇÕES
+
+Existem muitas variáveis envolvidas em um sistema de EAD e a sua complexidade não deve ser subestimada. A formalização de estruturas, mecanismos e procedimentos para viabilizar tanto a gestão pedagógica quanto a gestão de sistema é fundamental à qualidade e sucesso de  qualquer sistema de EAD. 
+
+A gestão pedagógica e de sistema compreende o desenvolvimento de múltiplas estratégias para a otimização do processo de ensino e aprendizagem a distância. Nesse sentido, considera-se essencial o desenvolvimento de três fundamentos (SENA NETO, 2020): a gestão de pessoas, a gestão estratégica e a avaliação institucional.
+
+Em especial, a avaliação institucional parte da necessidade de se conceber um sistema de avaliação que consiga avaliar todos os aspectos que compõem o sistema de EaD, diagnosticando os problemas no processo de gestão e apontando as soluções mais adequadas. Esse momento precisa ser de autoaprendizagem para toda a equipe envolvida, uma vez que a avaliação institucional promove a devida readequação do sistema.
+
+### REFERÊNCIAS
+
+PIMENTEL, N. M. Educação a distância. Florianópolis: SEAD/UFSC, 2006.
+
+SENA NETO, B. G. Gestão da educação a distância. Natal: IFRN, 2020. 
+
+## AVALIAÇÃO DE EDUCAÇÃO A DISTÂNCIA
+
+
+De acordo com as Diretrizes e Normas Nacionais para a Oferta de Programas e Cursos de Educação Superior na Modalidade a Distância, a educação a distância é caracterizada como a modalidade educacional na qual a mediação didático-pedagógica no processo de ensino e aprendizagem ocorre com a utilização de tecnologias de informação e comunicação, com pessoal qualificado, envolvendo estudantes e profissionais da educação (professores, tutores e gestores), que desenvolvem atividades educativas em lugares e/ou tempos diversos (BRASIL, 2017; MEC, 2016).
+
+Nesse contexto, as dimensões a serem avaliadas se estendem além daquelas relacionadas diretamente com o processo de ensino e aprendizagem, incluindo outros componentes, como o Plano de Desenvolvimento Institucional (PDI), o Projeto Pedagógico Institucional (PPI), o Projeto Pedagógico do Curso (PPC), a gestão institucional, a política de pessoal, o corpo docente e de tutoria, além da infraestrutura física e tecnológica (HENRIQUE et al., 2012).
+
+Para sistematizar a avaliação e os critérios que a organizam, o Ministério da Educação criou instrumentos de avaliação que abrangem as condições de funcionamento de cursos, tanto presenciais como a distância. O principal deles é o Sistema Nacional de Avaliação da Educação Superior (SINAES), criado pela Lei nº 10.861, de 14 de abril de 2004, sendo formado por três componentes principais (BRASIL, 2004): a avaliação das instituições, a avaliação dos cursos e a avaliação do desempenho dos estudantes. Esse sistema avalia todos os aspectos que envolvem esses três eixos, principalmente o ensino, a pesquisa, a extensão, a responsabilidade social, o desempenho dos alunos, a gestão da instituição, o corpo docente e as instalações (SENA NETO, 2020).
+
+Os cursos de graduação devem ter autorização para iniciar suas atividades, para depois receberem o reconhecimento do curso, que possibilitará à Instituição de Ensino Superior (IES) emitir diplomas aos graduados. Posteriormente, de acordo com a legislação pertinente, a IES submete o curso a processo avaliativo periódico para obter a renovação do reconhecimento, necessário para a continuidade da sua oferta (INEP, 2017b). 
+
+O reconhecimento de curso, assim como as suas renovações, transcorre dentro de um processo composto por diversas etapas, dentre as quais a avaliação in loco, que culmina em um relatório da comissão de avaliadores, em que constam aferidas as informações apresentadas pelo curso relacionadas à realidade encontrada durante a visita. Ao final desse processo, é gerado o Conceito de Curso (CC), graduado em cinco níveis, cujos valores iguais ou superiores a três indicam qualidade satisfatória.
+
+A avaliação estabelecida pelo SINAES é comum tanto para cursos de graduação presenciais como a distância. O SINAES agrupa o processo pedagógico em três dimensões: organização didático-pedagógica; corpo docente e tutorial; e infraestrutura. As principais informações para a avaliação são obtidas a partir do Projeto Pedagógico do Curso (PPC). A avaliação é sistematizada a partir de indicadores para cada dimensão medidos por conceitos que variam de 1 a 5. 
+
+Para cursos de graduação à distância, alguns elementos são analisados de forma diferenciada para considerar as particularidades da modalidade. Esses elementos compõem a dimensão didático-pedagógica e são formados pelas atividades de tutoria, pelos materiais didáticos institucionais como também pelos mecanismos de interação entre docentes, tutores e alunos (SENA NETO, 2020; HENRIQUE et al., 2012).
+
+Os cursos de especialização em nível de pós-graduação lato sensu presenciais, nos quais se incluem os cursos designados como MBA (do inglês Master Business Administration), oferecidos por instituições de ensino superior credenciadas ou por entidades especialmente credenciadas para atuarem nesse nível educacional independem de autorização, reconhecimento e renovação de reconhecimento e devem atender ao disposto na Resolução CNE/CES nº 1, de 6 de abril de 2018 (MEC, 2018). 
+
+A Lei que instituiu o SINAES (BRASIL, 2004) estabeleceu que cursos superiores de graduação e de pós-graduação lato sensu (especialização) devem ser avaliados pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), enquanto os programas de pósgraduação stricto sensu (mestrado e doutorado) são de responsabilidade da Coordenação de Aperfeiçoamento de Pessoal do Nível Superior (CAPES). Apesar da especialização estar subordinada ao mesmo órgão que a graduação, a sua avaliação ainda não possui um processo específico, no sentido de que ainda não foi definido um modelo de avaliação próprio para autorização, reconhecimento e renovação de reconhecimento de cursos da pós-graduação lato sensu, de maneira similar aos dos cursos de graduação (INEP) e de pós-graduação stricto sensu (CAPES).
+
+Os cursos de pós-graduação lato sensu à distância podem ser ofertados por instituições de educação superior desde que possuam credenciamento para atuar na modalidade a distância. O credenciamento institucional transcorre dentro de um processo composto por diversas etapas, dentre as quais a avaliação in loco, que culmina em um relatório da comissão de avaliadores, em que constam aferidas as informações apresentadas pela IES, relacionadas à realidade encontrada durante a visita. Ao final desse processo, é gerado o Conceito de Institucional (CI), graduado em cinco níveis, cujos valores iguais ou superiores a três indicam qualidade satisfatória.
+
+O processo de credenciamento abrange a oferta da modalidade presencial ou a distância. O instrumento de avaliação institucional para o credenciamento (INEP, 2017a) contempla as 10 dimensões estabelecidas no contexto do SINAES:
+
+1. Missão e plano de desenvolvimento institucional;
+2. Política para o ensino, a pesquisa, a pós-graduação e a extensão;
+3. Responsabilidade social da instituição; 
+4. Comunicação com a sociedade;
+5. Políticas de pessoal;
+6. Organização e gestão da instituição;
+7. Infraestrutura física;
+8. Planejamento e avaliação;
+9. Políticas de atendimento aos estudantes;
+10. Sustentabilidade financeira. 
+
+Essas dimensões são agrupadas por afinidade em cinco eixos, com indicadores que apresentam elementos de avaliação e os respectivos critérios para a sua análise e verificação.
+
+Por exemplo, no Eixo 1 – Planejamento e Avaliação Institucional – existem indicadores que apresentam elementos de avaliação relacionados à autoavaliação institucional em termos de seu projeto, participação da comunidade acadêmica e previsão de análise e divulgação de resultados. Nesse contexto, a autoavaliação é um instrumento de gestão e de ação acadêmico-administrativa para melhoria institucional, com previsão de uma etapa de sensibilização da comunidade acadêmica para a sua relevância, assim como a apropriação de seus resultados. Nesse caso, a autoavaliação deve ser conduzida por uma Comissão Própria de Avaliação (CPA).
+
+Apesar da pós-graduação lato sensu ainda não possuir um processo específico no sistema nacional de avaliação de cursos, a realização de avaliações sistemáticas e periódicas no âmbito da IES tem sido necessária para a melhoria da qualidade dos cursos. Em geral, o processo de avaliação é realizado pelo próprio departamento acadêmico ou coordenação de curso e abrange minimamente o corpo docente, as disciplinas e a estrutura disponibilizada para a realização das atividades do curso. Adicionalmente, esse processo de avaliação tem sido caracterizado pela participação dos estudantes e egressos do curso. 
+
+## REFERÊNCIAS
+
+BRASIL. Decreto nº 9.057, de 25 de maio de 2017. Regulamenta o art. 80 da Lei nº 9.394, de 20 de dezembro de 1996 , que estabelece as diretrizes e bases da educação nacional. 2017. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D9057.htm. Acesso em: 17 maio 2020.
+
+BRASIL. Lei nº 10.861, de 14 de abril de 2004. Institui o Sistema Nacional de Avaliação da Educação Superior – SINAES e dá outras providências. 2004. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.861.htm. Acesso em: 17 maio 2020.
+
+HENRIQUE, A. L. S.; LIMA, A. A.; SANTOS, S. C. A.; CAVALCANTE, I. F.;
+DIAS, T. F.; OLIVEIRA, W. Gestão em educação a distância. Natal: IFRN, 2012. INEP. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Instrumento de Avaliação de Cursos de Graduação Presencial e a Distância: Reconhecimento – Renovação de Reconhecimento. Brasília: INEP, 2017. Disponível em: https://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/curso_reconhecimento.pdf. Acesso em: 20 jun. 2020.
+
+INEP. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Instrumento de Avaliação Institucional Externa Presencial e a Distância: Credenciamento. Brasília: INEP, 2017. Disponível em: https://download.inep.gov.br/educacao_superior/avaliacao_institucional/instrumentos/2017/IES_credenciamento.pdf. . Acesso em: 20 jun. 2020.
+
+MEC. Ministério da Educação. Resolução nº 1, de 11 de março de 2016.Estabelece Diretrizes e Normas Nacionais para a Oferta de Programas e Cursos de Educação Superior na Modalidade a Distância. 2016. Disponível em: http://portal.mec.gov.br/docman/marco-2016-pdf/35541-res-cne-ces001-14032016-pdf/file. Acesso em: 20 jun. 2020.
+
+MEC. Ministério da Educação. Resolução nº 1, de 6 de abril de 2018. Estabelece diretrizes e normas para a oferta dos cursos de pós-graduação lato sensu denominados cursos de especialização, no âmbito do Sistema Federal de Educação Superior, conforme prevê o Art. 39, § 3º, da Lei nº 9.394/1996, e dá outras providências. 2018. Disponível em: http://portal.mec.gov.br/docman/abril-2018-pdf/85591-rces001-18/file. Acesso em: 20 jun. 2020.
+
+SENA NETO, B. G. Gestão da educação a distância. Natal: IFRN, 2020.
+
+### Materiais extras
+[https://repositorioaberto.uab.pt/handle/10400.2/10391]
+[https://revistaseletronicas.pucrs.br/ojs/index.php/faced/article/view/15543]
+
+### Atividade Fórum
+
+
+A evasão é a desistência do curso por parte do estudante, qualquer que seja a etapa em que se encontra no curso, seja no início, no percurso ou no final. A questão da evasão na educação a distância é um dos maiores problemas para o sucesso de um curso nesta modalidade. Portanto, identificar as causas da evasão e encontrar maneiras de administrar o problema para assegurar a permanência do estudante é fundamental para a gestão das instituições de ensino que ofertam cursos na modalidade de educação a distância.
+
+A evasão é certamente um problema resultante de vários fatores internos e externos que influenciam a decisão do estudante em continuar ou abandonar o curso. Por exemplo, a questão econômica é um fator externo muito citado como causa para o abandono de um curso a distância.
+
+a) Indique uma (1) causa que você considera determinante para levar um estudante a desistir de um curso a distância. (Observação: não considerar a questão econômica, pois é bastante óbvia).
+
+b) Indique as ações necessárias para evitar a causa indicada que poderiam ser realizadas tanto pelo estudante quanto pela instituição de ensino.
+
+a. Falta de suporte institucional: existe a necessidade da gestão do sistema, no sentido de que o aluno necessita de interação com os demais colegas, ter suas dúvidas tanto institucionais quanto de aulas sanadas, sentir-se pertencente ao grupo e a intituição.
+
+b. O estudante deve ser proativo e buscar os meios de interatividade fornecidos pela instituição. A instituição deve fornecer uma secretaria e tutoria capacitada para atender as demandas do aluno, bem como um ambiente virtual de aprendizagem interativo.
+
 
