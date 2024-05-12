@@ -1080,4 +1080,89 @@ a. Falta de suporte institucional: existe a necessidade da gestão do sistema, n
 
 b. O estudante deve ser proativo e buscar os meios de interatividade fornecidos pela instituição. A instituição deve fornecer uma secretaria e tutoria capacitada para atender as demandas do aluno, bem como um ambiente virtual de aprendizagem interativo.
 
+# Aula 7
+
+## TENDENCIAS EM EDUCAÇÃO A DISTÂNCIA
+
+A Educação a Distância (EAD) é a modalidade que mais tem crescido em todo o mundo. Em parte, esse crescimento é devido à melhoria da qualidade de ensino, utilização de novas tecnologias, prática de mensalidades mais acessíveis, característica da flexibilidade de horários e possibilidade de estudar em qualquer local. Devido ao papel significativo que a EAD deve ter no futuro, considera-se importante destacar algumas das suas principais tendências:
+*  Microlearning;
+* Inteligência Artificial;
+* Gamificação;
+* Realidade Virtual e Realidade Aumentada. 
+
+Essas tendências são descritas a seguir e estão de alguma forma relacionadas com a tecnologia. De fato, o avanço tecnológico tem permitido o desenvolvimento e aplicação de novos recursos educacionais na EAD.
+
+### Microlearning
+
+O microlearning (micro aprendizagem) é uma abordagem para a aprendizagem fundamentada em unidades de informação relativamente pequenas e atividades rápidas. Essa abordagem de aprendizagem é considerada uma tendência porque permite a utilização em dispositivos móveis, não consome muito tempo do estudante e pode ser integrada facilmente à rotina de quem trabalha. Nesse sentido, O microlearning tem sido associada ao mobile learning, que consiste na possibilidade de aprender por meio de um dispositivo móvel, em qualquer local e a qualquer momento.
+
+O conceito de microlearning pode ser trabalhado por meio de diversas estratégias. Por exemplo, ler um parágrafo de texto (e-mail ou SMS), ouvir um podcast (curto) informativo, assistir a um videoclipe, brincar com micro jogos, memorizar uma palavra, definição ou fórmula, responder a uma pergunta, resolver um desafio, entre outras. Um conteúdo curto e dinâmico, adaptado a necessidades específicas e acessível em qualquer local mantém o estudante interessado. O objetivo é otimizar ainda mais o tempo do estudante, tornando a aprendizagem mais direta.
+
+## Inteligência Artificial
+
+A inteligência artificial (IA) pode ser definida como a arte da construção de programas com a capacidade de adaptação e aprendizado para que possam ser utilizados por mais tempo. Os principais sistemas educacionais que se utilizam tecnologias de IA são os Sistemas Tutores Inteligentes (STIs), os Learning Management Systems (LMSs) e os Massive Open Online Course (MOOCs), este último no que se refere a Learning Analytics (LA). Entretanto, cada uma dessas aplicações faz uso de tecnologias da IA de formas distintas.
+
+Os Sistemas Tutores Inteligentes (STIs) são sistemas inteligentes cuja principal característica é a utilização do ensino personalizado como estratégia de ensino-aprendizagem. Os STIs afetivos são considerados uma evolução dos STIs para sistemas que reconhecem as emoções dos alunos ou geram emoções para o tutor interagir de forma afetiva com o estudante. A sua implementação ocorre por meio das informações do modelo afetivo e cognitivo do estudante.
+
+Os Learning Management Systems (LMSs), também denominados de Ambientes Virtuais de Aprendizagem (AVAs), utilizam o ensino colaborativo em contraponto ao ensino personalizado característico dos STIs. A tendência é que as plataformas LMSs utilizem a aprendizagem colaborativa, entendida neste contexto como uma parte da IA aplicada à Educação, abrangendo as ferramentas que possibilitam colaboração em ambientes virtuais para permitir, por exemplo, a colaboração entre estudantes para a solução de problemas. O objetivo é melhorar a interação entre os estudantes, ou entre o professor e os estudantes.
+
+Os Massive Open Online Courses (MOOCs) são cursos on-line abertos, cujo objetivo é atingir um grande público. A tecnologia de IA denominada Learning Analytics surgiu vinculada aos MOOCs para a interpretação da imensa quantidade de dados que são produzidos por estudantes. Esses dados são armazenados para avaliar o progresso acadêmico, prever o desempenho futuro e detectar possíveis problemas. O objetivo é buscar entender o que acontece com o comportamento dos estudantes, permitindo, por exemplo, prever as partes de um curso nas quais os estudantes encontram mais dificuldades ou nas quais podem apresentar tendências para o abandono. Essa tecnologia vem se expandindo para as demais áreas de forma que, a curto prazo, sua aplicação estará presente também em STIs e em LMSs.
+
+### Gamificação
+
+A gamificação (gamification) ou ludificação é o uso de elementos do projeto de jogos (game design) para engajar pessoas, motivar ações, promover aprendizagem e resolver problemas. Os seus principais objetivos são: tornar a tecnologia mais atraente, estimular o envolvimento com determinados comportamentos, mostrar um caminho para a autonomia, ajudar a resolver problemas e tirar vantagem da predisposição psicológica do ser humano de se engajar em jogos.
+
+Os elementos de gamificação mais utilizados são: pontuação, classificação (ranking), progresso (evolução), níveis, medalhas e troféus,  restrição/desbloqueio de conteúdo, avatar, conquista, desafio, feedback e interação. A utilização da gamificação como estratégia de  prendizagem pode ser utilizada durante todo o curso, para um conteúdo específico e na avaliação. Existem propostas para a utilização da gamificação de maneira coletiva e individual, em atividades síncronas e assíncronas.
+
+A gamificação pode ser considerada uma estratégia lúdica e diferenciada de utilizar jogos digitais para atrair e envolver estudantes em algum processo educacional. Os estudantes podem aprender e praticar enquanto participam das atividades propostas por meio de jogos digitais. Os elementos de jogos ajudam a criar um ambiente de aprendizagem amigável e positivo para os estudantes. Além disso, a gamificação é capaz de combater a falta de interesse e dispersão por parte dos estudantes. O seu uso é comum em diversos cursos de, por exemplo, Engenharia, Medicina, Computação, Arquitetura e Administração. 
+
+A adoção da gamificação tem a tendência de ser mais popular na educação infantil porque as crianças se envolvem mais rapidamente em vídeos de jogos ou procuram sempre obter pontuações mais altas em um jogo. No entanto, isso não significa que o ensino superior ou o treinamento corporativo não possam utilizar dos elementos de projeto de jogos para melhorar o nível de engajamento e envolvimento dos seus estudantes.
+
+### Realidade Virtual e Realidade Aumentada
+
+A Realidade Virtual (RV) é uma tecnologia de interface humano-computador avançada. O seu objetivo é recriar ao máximo a sensação de realidade para o usuário. Para isso, a interação é realizada em tempo real, com o uso de técnicas e de equipamentos computacionais que ajudam na ampliação do sentimento de imersão no usuário no mundo virtual. A RV vem sendo utilizada no ensino de Medicina e em Jogos Sérios (Serious Games), que são jogos desenvolvidos mais para fins educacionais do que para entretenimento. Como o custo dos equipamentos está diminuindo e o uso vem se tornando mais confortável, a tendência é que tecnologias de RV sejam mais utilizadas no processo de ensino e aprendizagem.
+
+A Realidade Aumentada (RA) é uma tecnologia utilizada para unir o mundo real com o virtual, por meio da utilização de um marcador, webcam ou de um smartphone (IOS ou Android). O objetivo é a inserção de objetos virtuais no ambiente físico, mostrados ao usuário em tempo real. A RA permite que pequenos componentes de uma figura, por exemplo, o corpo humano, sejam ampliados e visualizados em detalhes com o simples gesto de apontar a lente da câmera fotográfica de um celular para o ponto desejado da figura. O desenvolvimento de aplicações com essa tecnologia será mais acessível do ponto de vista econômico e, portanto, mais utilizada na Educação.
+
+### REFERENCIAS
+
+Texto elaborado a partir de:
+BACICH, L.; NETO, A. T.; TREVISANI, F. M. Ensino híbrido: personalização e tecnologia na educação. Porto Alegre: Penso, 2015. 
+
+GARONE, P. M. C.; NESTERIUK, S. Gamificação na Educação a Distância: Um estudo sobre a atuação de designers, professores e estudantes no processo de design. In: SIMPÓSIO BRASILEIRO DE GAMES E ENTRETENIMENTO DIGITAL, SBGames, 18., 2019, Rio de Janeiro. Anais [...]. Porto Alegre: SBC, 2019. p. 960-968.
+
+LEE, Y.; JAHNKE, I.; AUSTIN, L. Mobile microlearning design and effects on learning efficacy and learner experience. Educational Technology Research and Development, v. 69, p. 885-915, 2021.
+
+MARTÍN-GUTIÉRREZ, J.; MORA, C. E.; AÑORBE-DÍAZ, B.; GONZÁLEZMARRERO, A. Virtual Technologies Trends in Education. EURASIA Journal of Mathematics Science and Technology Education, v. 13, n. 2, p. 469- 486, 2017.
+
+VICARI, R. M. Tendências em inteligência artificial na educação no período de 2017 a 2030: sumário executivo. Serviço Nacional de Aprendizagem Industrial, Serviço Social da Indústria, Rosa Maria Vicari. Brasília: SENAI, 2018. 
+
+## Webnar novas tendências para educação: Ensino Hibrido, EAD e suas melhotres prática
+
+* link: [https://www.youtube.com/watch?v=Lv2bENel-RI]
+
+* Estágio 1: Ciencia normal. A forma como as coisas sempre foram feitas
+* Estágio 2: Pesquisa extraordinária. A necessidade de experimentar seriamente algo novo para enfrentar uma crise
+* Estágio 3: Adoção. Um caminho aberto para desenvolver novos modelos mentais.
+* Estágio 4: Consequência. O ponto em que o novo paradigma passa a ser reconhecido como o dominante
+
+<div align = "center">
+    <img src="crises.png" />
+</div>
+
+<div align = "center">
+    <img src="ingressos.png" />
+</div>
+
+<div align = "center">
+    <img src="impacto.png" />
+</div>
+
+<div align = "center">
+    <img src="taxonomia-bloom.png" />
+</div>
+
+### Materiais extras
+* relatório analitoco da aprendizagem a distancia no brasil : [https://abed.org.br/arquivos/CENSO_EAD_2020_PORTUGUES.pdf]
+* educação a distancia online :[https://www.abed.org.br/site/pt/midiateca/bibliografia/1358/2015/10/educacao_a_distancia_online_construindo_uma_agenda_de_pesquisa]
 
